@@ -12,19 +12,11 @@
 
 환불 규정, 동의 항목 등 도장에 맞는 계약서 양식을 만듭니다.
 
-{% file src=".gitbook/assets/계약서 생성.mp4" %}
-계약서 템플릿 생성 과정
-{% endfile %}
-
 → 자세히 보기: [계약서 관리](contracts/)
 
 ### ② 수업권 만들기
 
 1개월권, 3개월권 등 판매할 요금제를 등록합니다.
-
-{% file src=".gitbook/assets/회원권 생성.mp4" %}
-수업권(회원권) 생성 과정
-{% endfile %}
 
 → 자세히 보기: [수업권 관리](membership-plans.md)
 
@@ -42,19 +34,11 @@
 
 <figure><img src=".gitbook/assets/계약서 수신.jpg" alt="회원이 받는 카카오 알림톡"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure>
 
-{% file src=".gitbook/assets/회원권 서명.mp4" %}
-회원 모바일 서명 과정
-{% endfile %}
-
 → 자세히 보기: [회원 서명 과정](contracts/signing-flow.md)
 
 ### ⑤ 결제 확인
 
 서명이 완료되면 매니저에서 결제를 확인하고 수업권을 활성화합니다.
-
-{% file src=".gitbook/assets/회원 온보딩 확인.mp4" %}
-서명 완료 → 결제 확인 과정
-{% endfile %}
 
 → 자세히 보기: [서명된 계약서 관리](contracts/signed-management.md)
 
