@@ -12,9 +12,9 @@
 
 환불 규정, 동의 항목 등 도장에 맞는 계약서 양식을 만듭니다.
 
-{% embed url="movies/계약서 생성.mp4" %}
+{% file src=".gitbook/assets/계약서 생성.mp4" %}
 계약서 템플릿 생성 과정
-{% endembed %}
+{% endfile %}
 
 → 자세히 보기: [계약서 관리](contracts/)
 
@@ -22,9 +22,9 @@
 
 1개월권, 3개월권 등 판매할 요금제를 등록합니다.
 
-{% embed url="movies/회원권 생성.mp4" %}
+{% file src=".gitbook/assets/회원권 생성.mp4" %}
 수업권(회원권) 생성 과정
-{% endembed %}
+{% endfile %}
 
 → 자세히 보기: [수업권 관리](membership-plans.md)
 
@@ -32,7 +32,7 @@
 
 회원 이름과 번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 전송됩니다.
 
-<figure><img src="movies/계약서 발송.png" alt="계약서 발송 화면"><figcaption>수업권 선택 → 수신자 입력 → 발송</figcaption></figure>
+<figure><img src=".gitbook/assets/계약서 발송.png" alt="계약서 발송 화면"><figcaption>수업권 선택 → 수신자 입력 → 발송</figcaption></figure>
 
 → 자세히 보기: [계약서 발송](contracts/sending.md)
 
@@ -40,11 +40,11 @@
 
 회원은 별도 앱 설치 없이 모바일 브라우저에서 바로 서명합니다.
 
-<figure><img src="movies/계약서 수신.jpg" alt="회원이 받는 카카오 알림톡"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure>
+<figure><img src=".gitbook/assets/계약서 수신.jpg" alt="회원이 받는 카카오 알림톡"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure>
 
-{% embed url="movies/회원권 서명.mp4" %}
+{% file src=".gitbook/assets/회원권 서명.mp4" %}
 회원 모바일 서명 과정
-{% endembed %}
+{% endfile %}
 
 → 자세히 보기: [회원 서명 과정](contracts/signing-flow.md)
 
@@ -52,9 +52,9 @@
 
 서명이 완료되면 매니저에서 결제를 확인하고 수업권을 활성화합니다.
 
-{% embed url="movies/회원 온보딩 확인.mp4" %}
+{% file src=".gitbook/assets/회원 온보딩 확인.mp4" %}
 서명 완료 → 결제 확인 과정
-{% endembed %}
+{% endfile %}
 
 → 자세히 보기: [서명된 계약서 관리](contracts/signed-management.md)
 
