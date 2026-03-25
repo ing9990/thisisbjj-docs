@@ -5,7 +5,7 @@
 ## 시작하기
 
 **Q. 주짓주짓 매니저는 어디서 접속하나요?**\
-A. [manager.thisisbjj.com](https://manager.thisisbjj.com)에서 접속합니다.
+A. [주짓주짓 매니저](https://manager.thisisbjj.com)에서 접속합니다.
 
 **Q. 회원용 앱 계정과 동일한 계정을 사용해야 하나요?**\
 A. 동일한 소셜 계정(카카오/네이버/구글)으로 [로그인](getting-started/login.md)하시면 기존 정보가 자동으로 연결됩니다.

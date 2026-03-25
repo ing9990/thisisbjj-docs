@@ -14,7 +14,7 @@
 
 ## 로그인 방법
 
-1. [manager.thisisbjj.com](https://manager.thisisbjj.com)에 접속합니다.
+1. [주짓주짓 매니저](https://manager.thisisbjj.com)에 접속합니다.
 2. 원하는 소셜 계정으로 로그인합니다.
 3. 최초 로그인 시 [전화번호 인증](phone-verification.md) 화면으로 이동합니다.
 
