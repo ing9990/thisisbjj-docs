@@ -17,6 +17,8 @@
 
 카카오 알림톡 또는 SMS로 받은 링크를 클릭합니다.
 
+<div align="center"><figure><img src="../.gitbook/assets/계약서 수신.jpg" alt="카카오 알림톡으로 받은 계약서 서명 요청" width="280"><figcaption>회원이 받는 카카오 알림톡 — "계약서 서명하기" 클릭</figcaption></figure></div>
+
 ### ② 개인정보 입력
 
 | 입력 항목 | 설명 |

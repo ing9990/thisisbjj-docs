@@ -20,9 +20,7 @@
 
 ## 체크인 과정
 
-```
-① 휴대폰 뒷자리 4자리 입력 → ② 회원 확인 → ③ 체크인 완료
-```
+<div align="left"><figure><img src="../.gitbook/assets/키오스크 모드.gif" alt="키오스크 체크인 과정" width="563"><figcaption>전화번호 뒷자리 입력 → 회원 확인 → 체크인 완료</figcaption></figure></div>
 
 ### ① 전화번호 입력
 
@@ -42,9 +40,13 @@
 
 ## 벨트 색상 설정 (선택)
 
-[대시보드](../dashboard.md)에서 **"출석 시 벨트 설정"** 옵션을 켜면, 벨트가 미설정된 회원이 체크인할 때 **벨트 색상 선택 화면**이 나타납니다.
+[데이터 이관](../data-migration.md) 후 또는 신규 관원 등록 후, 벨트를 일일이 등록하기 번거로울 수 있습니다.\
+[대시보드](../dashboard.md)에서 **"출석체크로 벨트설정하기"** 토글을 켜면, 벨트가 미설정된 회원이 체크인할 때 **1회만 벨트 색상 선택 화면**이 나타납니다.
 
-- 원형 컬러 피커로 직관적으로 벨트를 선택합니다.
+<div align="left"><figure><img src="../.gitbook/assets/대시보드 토글.png" alt="대시보드 벨트 설정 토글" width="563"><figcaption>대시보드 → 도장 설정 → 출석체크로 벨트설정하기 토글 ON</figcaption></figure></div>
+
+<div align="left"><figure><img src="../.gitbook/assets/출석체크 벨트설정 기능.gif" alt="출석 시 벨트 설정" width="563"><figcaption>체크인 → 벨트 색상 선택 → 설정 완료 (벨트 미설정 회원에게 1회만 노출)</figcaption></figure></div>
+
 - 이미 벨트가 설정된 회원은 이 화면이 나타나지 않습니다.
 - 이 기능은 [벨트 관리](../members/belt-management.md)의 "초기 벨트 설정"과 같은 효과입니다.
 

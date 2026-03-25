@@ -49,7 +49,11 @@
 계약서에 표시될 **지도자 서명 이미지**를 미리 등록합니다.\
 회원이 서명하면 지도자 서명과 함께 PDF가 생성됩니다.
 
-**계약서** → **지도자 서명** 메뉴에서 서명 이미지를 업로드하세요.
+**계약서** → **지도자 서명** 메뉴에서 서명을 직접 그려 등록하세요.
+
+<div align="left"><figure><img src="../.gitbook/assets/서명 등록.png" alt="서명 등록" width="375"><figcaption>마우스 또는 터치로 서명을 직접 그립니다</figcaption></figure></div>
+
+<div align="left"><figure><img src="../.gitbook/assets/서명 등록 완료됨.png" alt="서명 등록 완료" width="375"><figcaption>등록된 서명은 모든 계약서 템플릿에 일괄 적용됩니다</figcaption></figure></div>
 
 {% hint style="danger" %}
 연결된 [회원권](../membership-plans.md)이 있는 템플릿은 삭제할 수 없습니다.

@@ -25,9 +25,11 @@
 ④ 관리자 승인 후 이관 완료
 ```
 
-### ① Excel 파일 준비
+### ① 이전 프로그램 선택 & Excel 파일 준비
 
-기존 도장 관리 시스템에서 회원 데이터를 **Excel 파일**로 내보냅니다.
+현재 다짐(DaGym) 형식을 지원합니다. 이전 프로그램을 선택하면 엑셀 파일 예시와 필수 컬럼이 안내됩니다.
+
+<div align="left"><figure><img src=".gitbook/assets/데이터 이전 프로그램 선택_다짐.png" alt="이전 프로그램 선택" width="563"><figcaption>다짐 선택 시 엑셀 파일 예시와 필수 컬럼 안내</figcaption></figure></div>
 
 | 항목 | 설명 |
 |---|---|
@@ -37,18 +39,18 @@
 
 ### ② 파일 업로드
 
-[주짓주짓 매니저](https://manager.thisisbjj.com) → **데이터 이관** 메뉴에서 파일을 업로드합니다.
+데이터 이전 약관에 동의한 후 Excel 파일을 업로드합니다.
+
+<div align="left"><figure><img src=".gitbook/assets/데이터 파일 업로드.png" alt="데이터 파일 업로드" width="563"><figcaption>약관 동의 → Excel 파일 업로드</figcaption></figure></div>
 
 - 업로드 시 자동으로 컬럼 매핑 및 데이터 검증이 진행됩니다.
 - 오류가 발견되면 어떤 항목에 문제가 있는지 안내됩니다.
 
-### ③ 미리보기 & 확인
+### ③ 업로드 완료 → 관리자 검토
 
-이관될 회원 데이터를 미리 확인합니다.
+파일 업로드가 완료되면 관리자가 검토 후 처리합니다. 보통 **1~2 영업일** 이내에 완료됩니다.
 
-### ④ 관리자 승인
-
-데이터 검증이 완료되면 관리자가 최종 승인합니다.
+<div align="left"><figure><img src=".gitbook/assets/회원 이전 데이터 업로드 완료.png" alt="업로드 완료" width="563"><figcaption>접수 완료 — 검토 후 처리 안내</figcaption></figure></div>
 
 {% hint style="info" %}
 FREE 요금제의 경우 총 회원 수가 **15명을 초과**하면 업로드가 제한됩니다. [PARTNER 구독](subscription.md)으로 전환 후 진행해 주세요.

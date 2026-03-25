@@ -19,6 +19,8 @@
 
 [주짓주짓 매니저](https://manager.thisisbjj.com) → **회원권** 메뉴에서 새 회원권을 만듭니다.
 
+<div align="left"><figure><img src=".gitbook/assets/회원권 생성_1.png" alt="회원권 타입 및 기본 정보" width="375"><figcaption>기간권 / 횟수권 선택 후 이름, 설명, 대표 이미지 입력</figcaption></figure></div>
+
 | 항목 | 설명 | 필수 |
 |---|---|---|
 | 회원권 이름 | 예: "주짓수 3개월 정기권" | ✅ |
@@ -29,11 +31,17 @@
 | 대표 이미지 | 회원권 카드에 표시될 이미지 (템플릿 제공) | |
 | 계약서 템플릿 | 이 회원권과 연결할 [계약서 양식](contracts/) | |
 
+<div align="left"><figure><img src=".gitbook/assets/회원권 생성_2.png" alt="횟수 및 금액, 계약서 연결" width="375"><figcaption>횟수·금액 설정 + 계약서 템플릿 연결</figcaption></figure></div>
+
 {% hint style="info" %}
 **복제 기능**: 기존 회원권을 기반으로 새 회원권을 빠르게 만들 수 있습니다. 회원권 목록에서 복제할 회원권을 선택하세요.
 {% endhint %}
 
 ## 회원권 목록 관리
+
+등록된 회원권은 목록에서 한눈에 확인할 수 있습니다.
+
+<div align="center"><figure><img src=".gitbook/assets/등록된 회원권 목록.png" alt="등록된 회원권 목록" width="240"><figcaption>회원이 보는 회원권 목록 화면</figcaption></figure></div>
 
 - **드래그**로 표시 순서를 변경할 수 있습니다.
 - 회원권을 수정/삭제할 수 있습니다.

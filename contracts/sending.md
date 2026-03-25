@@ -26,10 +26,9 @@
 
 ### STEP 2 — 수신자 입력
 
-| 항목 | 설명 |
-|---|---|
-| 회원 이름 | 계약서에 표시될 이름 |
-| 휴대폰 번호 | 링크를 받을 번호 |
+회원 이름과 휴대폰 번호를 입력하고 링크 만료 시간을 설정합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>회원권 선택 → 수신자 정보 입력 → 링크 만료 시간 설정</figcaption></figure></div>
 
 ### STEP 3 — 발송
 
