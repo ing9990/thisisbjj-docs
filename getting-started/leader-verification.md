@@ -55,7 +55,6 @@
 | 승급식 | [승급식](../ceremonies.md) |
 | 공지 & 자동 메시지 | [공지 & 자동 메시지](../announcements/) |
 | 정산 | [정산](../settlement.md) |
-| 구독 관리 | [구독 & 요금제](../subscription.md) |
 
 ---
 

@@ -4,10 +4,6 @@
 
 ---
 
-{% hint style="warning" %}
-출석 통계는 [PARTNER 구독](../subscription.md)이 필요합니다.
-{% endhint %}
-
 ## 통계 항목
 
 | 항목 | 설명 |

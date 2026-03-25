@@ -4,10 +4,6 @@
 
 ---
 
-{% hint style="warning" %}
-서명된 계약서 관리는 [PARTNER 구독](../subscription.md)이 필요합니다.
-{% endhint %}
-
 ## 계약서 상태
 
 | 상태 | 의미 | 지도자 액션 |

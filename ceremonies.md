@@ -6,7 +6,7 @@
 ---
 
 {% hint style="warning" %}
-승급식 기능은 [지도자 인증](getting-started/leader-verification.md)과 [PARTNER 구독](subscription.md)이 모두 필요합니다.
+승급식 기능은 [지도자 인증](getting-started/leader-verification.md)이 완료되어야 사용할 수 있습니다.
 {% endhint %}
 
 ## 승급식 워크플로우

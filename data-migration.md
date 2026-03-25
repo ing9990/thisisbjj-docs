@@ -10,7 +10,6 @@
 데이터 이관을 위해 아래 항목이 **모두** 완료되어야 합니다.
 
 1. [지도자 인증](getting-started/leader-verification.md)
-2. [PARTNER 구독](subscription.md) (FREE는 15명 제한)
 {% endhint %}
 
 ## 이관 과정
@@ -52,9 +51,6 @@
 
 <div align="left"><figure><img src=".gitbook/assets/회원 이전 데이터 업로드 완료.png" alt="업로드 완료" width="563"><figcaption>접수 완료 — 검토 후 처리 안내</figcaption></figure></div>
 
-{% hint style="info" %}
-FREE 요금제의 경우 총 회원 수가 **15명을 초과**하면 업로드가 제한됩니다. [PARTNER 구독](subscription.md)으로 전환 후 진행해 주세요.
-{% endhint %}
 
 ## 이관 상태 확인
 

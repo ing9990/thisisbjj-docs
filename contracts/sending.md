@@ -11,9 +11,8 @@
 
 1. [전화번호 인증](../getting-started/phone-verification.md)
 2. [지도자 인증](../getting-started/leader-verification.md)
-3. [PARTNER 구독](../subscription.md)
-4. [회원권](../membership-plans.md) 1개 이상 생성
-5. [계약서 템플릿](README.md) 생성 및 회원권 연결
+3. [회원권](../membership-plans.md) 1개 이상 생성
+4. [계약서 템플릿](README.md) 생성 및 회원권 연결
 {% endhint %}
 
 ## 발송 방법

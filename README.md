@@ -33,7 +33,7 @@
 | [대시보드](dashboard.md) | 도장 현황을 한눈에 |
 | [도장 정보](gym-info.md) | 도장 기본 정보 설정 |
 | [회원 관리](members/) | 회원 조회, 벨트, 회원권, 메모 |
-| [회원권 관리](membership-plans.md) | 기간제/횟수제 요금제 설정 |
+| [회원권 관리](membership-plans.md) | 기간제/횟수제 회원권 설정 |
 | [계약서 관리](contracts/) | 전자 계약서 발송 및 서명 |
 | [출석 & 키오스크](attendance/) | 셀프 체크인, 출석 통계 |
 | [승급식](ceremonies.md) | 벨트 승급 행사 관리 |

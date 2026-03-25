@@ -11,7 +11,6 @@
 
 1. [전화번호 인증](../getting-started/phone-verification.md)
 2. [지도자 인증](../getting-started/leader-verification.md)
-3. [PARTNER 구독](../subscription.md)
 {% endhint %}
 
 ## 공지 작성

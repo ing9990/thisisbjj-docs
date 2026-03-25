@@ -54,11 +54,10 @@
 {% hint style="warning" %}
 **사전 필요 작업**
 
-이 기능을 사용하려면 아래 3가지가 완료되어야 합니다.
+이 기능을 사용하려면 아래 2가지가 완료되어야 합니다.
 
 1. [전화번호 인증](getting-started/phone-verification.md)
 2. [지도자 인증 (사업자 인증)](getting-started/leader-verification.md)
-3. [PARTNER 구독](subscription.md) (계약서 발송은 PARTNER 전용)
 {% endhint %}
 
 {% hint style="info" %}
@@ -125,9 +124,6 @@
 
 → 자세히 보기: [승급식](ceremonies.md)
 
-{% hint style="warning" %}
-승급식은 [PARTNER 구독](subscription.md)이 필요합니다. 개별 승급은 FREE에서도 가능합니다.
-{% endhint %}
 
 ---
 
@@ -146,7 +142,7 @@
 → 자세히 보기: [공지 발송](announcements/manual.md) · [자동 메시지](announcements/auto-messages.md)
 
 {% hint style="warning" %}
-공지 발송은 [전화번호 인증](getting-started/phone-verification.md), [지도자 인증](getting-started/leader-verification.md), [PARTNER 구독](subscription.md)이 모두 필요합니다.
+공지 발송은 [전화번호 인증](getting-started/phone-verification.md)과 [지도자 인증](getting-started/leader-verification.md)이 완료되어야 합니다.
 {% endhint %}
 
 ---
@@ -163,9 +159,6 @@
 
 → 자세히 보기: [정산](settlement.md)
 
-{% hint style="warning" %}
-정산은 [PARTNER 구독](subscription.md)이 필요합니다.
-{% endhint %}
 
 ---
 
@@ -192,7 +185,7 @@
 → 자세히 보기: [데이터 이관](data-migration.md)
 
 {% hint style="warning" %}
-데이터 이관은 [지도자 인증](getting-started/leader-verification.md)이 필요합니다. FREE 요금제는 15명 제한이 있으므로 대량 이관 시 [PARTNER 구독](subscription.md)을 권장합니다.
+데이터 이관은 [지도자 인증](getting-started/leader-verification.md)이 완료되어야 사용할 수 있습니다.
 {% endhint %}
 
 ---

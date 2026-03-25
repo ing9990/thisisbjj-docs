@@ -6,8 +6,7 @@
 ---
 
 {% hint style="warning" %}
-계약서 기능은 [지도자 인증](../getting-started/leader-verification.md)이 완료되어야 사용할 수 있습니다.\
-계약서 **발송**은 [PARTNER 구독](../subscription.md)이 필요합니다.
+계약서 기능은 [지도자 인증](../getting-started/leader-verification.md)이 완료되어야 사용할 수 있습니다.
 {% endhint %}
 
 ## 전체 흐름
