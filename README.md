@@ -9,6 +9,10 @@
 **주짓주짓 매니저**는 주짓수 도장의 운영을 돕는 SaaS 플랫폼입니다.\
 회원 관리, 전자 계약서, 출석 키오스크, 벨트 승급, 매출 정산까지 — 도장 운영에 필요한 모든 기능을 [manager.thisisbjj.com](https://manager.thisisbjj.com)에서 제공합니다.
 
+{% hint style="success" %}
+처음 사용하신다면 [**주요 기능 훑어보기**](quick-overview.md)에서 실제 도장 운영 시나리오별로 핵심 기능을 확인하세요.
+{% endhint %}
+
 ---
 
 ## 이 가이드의 구성

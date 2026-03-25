@@ -1,6 +1,7 @@
 # Table of contents
 
 * [주짓주짓 매니저 이용 가이드](README.md)
+* [주요 기능 훑어보기](quick-overview.md)
 
 ## 시작하기 <a href="#getting-started" id="getting-started"></a>
 
