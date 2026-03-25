@@ -19,21 +19,21 @@
 
 → 자세히 보기: [계약서 관리](contracts/)
 
-### ② 수업권 만들기
+### ② 회원권 만들기
 
-기간제(1개월, 3개월 등) 또는 횟수제(10회, 20회 등) 수업권을 등록합니다.
+기간제(1개월, 3개월 등) 또는 횟수제(10회, 20회 등) 회원권을 등록합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/회원권 생성_1.png" alt="수업권 타입 선택" width="375"><figcaption>기간권 / 횟수권 선택 후 기본 정보 입력</figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/회원권 생성_1.png" alt="회원권 타입 선택" width="375"><figcaption>기간권 / 횟수권 선택 후 기본 정보 입력</figcaption></figure></div>
 
 <div align="left"><figure><img src=".gitbook/assets/회원권 생성_2.png" alt="횟수 및 금액 설정" width="375"><figcaption>횟수·금액 설정 + 계약서 템플릿 연결</figcaption></figure></div>
 
-→ 자세히 보기: [수업권 관리](membership-plans.md)
+→ 자세히 보기: [회원권 관리](membership-plans.md)
 
 ### ③ 계약서 발송
 
-수업권을 선택하고 회원 이름과 번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 전송됩니다.
+회원권을 선택하고 회원 이름과 번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 전송됩니다.
 
-<div align="left"><figure><img src=".gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>발송할 수업권 선택 → 수신자 정보 입력 → 링크 생성</figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>발송할 회원권 선택 → 수신자 정보 입력 → 링크 생성</figcaption></figure></div>
 
 → 자세히 보기: [계약서 발송](contracts/sending.md)
 
@@ -47,7 +47,7 @@
 
 ### ⑤ 결제 확인
 
-서명이 완료되면 매니저에서 결제를 확인하고 수업권을 활성화합니다.
+서명이 완료되면 매니저에서 결제를 확인하고 회원권을 활성화합니다.
 
 → 자세히 보기: [서명된 계약서 관리](contracts/signed-management.md)
 
@@ -62,7 +62,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-회원이 서명을 완료하면 앱에서 등록된 수업권 목록을 확인할 수 있습니다.
+회원에게 발송할 회원권 목록을 [주짓주짓 매니저](https://manager.thisisbjj.com)에서 확인할 수 있습니다.
 
 <img src=".gitbook/assets/등록된 회원권 목록.png" alt="앱에서 본 회원권 목록" width="240">
 {% endhint %}
@@ -77,8 +77,8 @@
 
 <div align="left"><figure><img src=".gitbook/assets/키오스크 모드.gif" alt="키오스크 체크인" width="563"><figcaption>휴대폰 뒷자리 4자리 입력 → 회원 확인 → 체크인 완료</figcaption></figure></div>
 
-- **횟수제 수업권**은 체크인 시 자동으로 1회 차감됩니다.
-- **기간제 수업권**은 출석만 기록됩니다.
+- **횟수제 회원권**은 체크인 시 자동으로 1회 차감됩니다.
+- **기간제 회원권**은 출석만 기록됩니다.
 
 ### 출석 시 벨트 자동 설정
 
@@ -138,7 +138,7 @@
 | 필터 예시 | 활용 |
 |---|---|
 | 흰 벨트만 | 기초 특강 안내 |
-| 만료 7일 이내 | 수업권 갱신 안내 |
+| 만료 7일 이내 | 회원권 갱신 안내 |
 | 30대 이상 | 낮 시간 오픈매트 안내 |
 
 **반복 발송이 번거롭다면?** → [자동 메시지](announcements/auto-messages.md)를 설정하면 만료 알림, 환영 메시지 등이 조건 충족 시 자동 발송됩니다.

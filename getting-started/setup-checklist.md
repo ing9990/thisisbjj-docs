@@ -11,7 +11,7 @@
 |---|---|---|---|
 | ① | [도장 정보 입력](../gym-info.md) | 로고, 연락처, 소개글 | FREE |
 | ② | 첫 회원 등록 | [회원 관리](../members/)에서 확인 | FREE |
-| ③ | [수업권 생성](../membership-plans.md) | 기간제/횟수제 요금제 1개 이상 | FREE |
+| ③ | [회원권 생성](../membership-plans.md) | 기간제/횟수제 요금제 1개 이상 | FREE |
 | ④ | [계약서 템플릿 설정](../contracts/) | 계약서 양식 만들기 | FREE |
 | ⑤ | [키오스크 세팅](../attendance/kiosk.md) | 출석 체크인 준비 | FREE |
 | ⑥ | [첫 계약서 발송](../contracts/sending.md) | 회원에게 전자 계약서 보내기 | PARTNER |

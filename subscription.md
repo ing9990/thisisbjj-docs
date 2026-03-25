@@ -15,7 +15,7 @@
 | **회원 관리** | 최대 15명 | 무제한 |
 | [대시보드](dashboard.md) | 기본 (KPI, 벨트 분포) | 고급 분석 (추이, 이탈, 전월 비교) |
 | [도장 정보](gym-info.md) | ✅ | ✅ |
-| [수업권 관리](membership-plans.md) | ✅ | ✅ |
+| [회원권 관리](membership-plans.md) | ✅ | ✅ |
 | [계약서 템플릿](contracts/) | ✅ | ✅ |
 | [키오스크 출석](attendance/kiosk.md) | ✅ | ✅ |
 | [계약서 발송](contracts/sending.md) | ❌ | ✅ |

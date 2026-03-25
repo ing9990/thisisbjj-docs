@@ -12,17 +12,17 @@
 1. [전화번호 인증](../getting-started/phone-verification.md)
 2. [지도자 인증](../getting-started/leader-verification.md)
 3. [PARTNER 구독](../subscription.md)
-4. [수업권](../membership-plans.md) 1개 이상 생성
-5. [계약서 템플릿](README.md) 생성 및 수업권 연결
+4. [회원권](../membership-plans.md) 1개 이상 생성
+5. [계약서 템플릿](README.md) 생성 및 회원권 연결
 {% endhint %}
 
 ## 발송 방법
 
 [주짓주짓 매니저](https://manager.thisisbjj.com) → **계약서** → **계약서 발송** 메뉴에서 진행합니다.
 
-### STEP 1 — 수업권 선택
+### STEP 1 — 회원권 선택
 
-어떤 수업권으로 등록할지 선택합니다. 수업권에 연결된 계약서 템플릿이 자동으로 적용됩니다.
+어떤 회원권으로 등록할지 선택합니다. 회원권에 연결된 계약서 템플릿이 자동으로 적용됩니다.
 
 ### STEP 2 — 수신자 입력
 

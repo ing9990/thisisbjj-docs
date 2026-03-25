@@ -49,7 +49,7 @@
 | 기능 | 바로가기 |
 |---|---|
 | 회원 관리 | [회원 관리](../members/) |
-| 수업권 관리 | [수업권 관리](../membership-plans.md) |
+| 회원권 관리 | [회원권 관리](../membership-plans.md) |
 | 계약서 관리 | [계약서 관리](../contracts/) |
 | 출석 & 키오스크 | [출석 & 키오스크](../attendance/) |
 | 승급식 | [승급식](../ceremonies.md) |

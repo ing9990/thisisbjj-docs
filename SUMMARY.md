@@ -17,7 +17,7 @@
 * [회원 관리](members/README.md)
   * [회원 상세](members/detail.md)
   * [벨트 관리](members/belt-management.md)
-* [수업권 관리](membership-plans.md)
+* [회원권 관리](membership-plans.md)
 * [계약서 관리](contracts/README.md)
   * [계약서 발송](contracts/sending.md)
   * [회원 서명 과정](contracts/signing-flow.md)
