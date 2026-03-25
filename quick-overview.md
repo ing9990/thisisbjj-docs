@@ -10,29 +10,38 @@
 
 ### ① 계약서 양식 만들기
 
-환불 규정, 동의 항목 등 도장에 맞는 계약서 양식을 만듭니다.
+환불 규정, 동의 항목 등 도장에 맞는 계약서 양식을 만듭니다.\
+지도자 서명도 미리 등록해 두세요. 회원이 서명하면 PDF에 함께 표시됩니다.
+
+<div align="left"><figure><img src=".gitbook/assets/서명 등록.png" alt="지도자 서명 등록" width="375"><figcaption>서명을 직접 그려서 등록</figcaption></figure></div>
+
+<div align="left"><figure><img src=".gitbook/assets/서명 등록 완료됨.png" alt="서명 등록 완료" width="375"><figcaption>등록된 서명은 모든 계약서에 일괄 적용</figcaption></figure></div>
 
 → 자세히 보기: [계약서 관리](contracts/)
 
 ### ② 수업권 만들기
 
-1개월권, 3개월권 등 판매할 요금제를 등록합니다.
+기간제(1개월, 3개월 등) 또는 횟수제(10회, 20회 등) 수업권을 등록합니다.
+
+<div align="left"><figure><img src=".gitbook/assets/회원권 생성_1.png" alt="수업권 타입 선택" width="375"><figcaption>기간권 / 횟수권 선택 후 기본 정보 입력</figcaption></figure></div>
+
+<div align="left"><figure><img src=".gitbook/assets/회원권 생성_2.png" alt="횟수 및 금액 설정" width="375"><figcaption>횟수·금액 설정 + 계약서 템플릿 연결</figcaption></figure></div>
 
 → 자세히 보기: [수업권 관리](membership-plans.md)
 
 ### ③ 계약서 발송
 
-회원 이름과 번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 전송됩니다.
+수업권을 선택하고 회원 이름과 번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 전송됩니다.
 
-<figure><img src=".gitbook/assets/계약서 발송.png" alt="계약서 발송 화면"><figcaption>수업권 선택 → 수신자 입력 → 발송</figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>발송할 수업권 선택 → 수신자 정보 입력 → 링크 생성</figcaption></figure></div>
 
 → 자세히 보기: [계약서 발송](contracts/sending.md)
 
 ### ④ 회원이 서명
 
-회원은 별도 앱 설치 없이 모바일 브라우저에서 바로 서명합니다.
+회원은 카카오 알림톡으로 링크를 받고, 별도 앱 설치 없이 **모바일 브라우저에서 바로 서명**합니다.
 
-<figure><img src=".gitbook/assets/계약서 수신.jpg" alt="회원이 받는 카카오 알림톡"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure>
+<div align="center"><figure><img src=".gitbook/assets/계약서 수신.jpg" alt="회원이 받는 카카오 알림톡" width="280"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure></div>
 
 → 자세히 보기: [회원 서명 과정](contracts/signing-flow.md)
 
@@ -52,6 +61,12 @@
 3. [PARTNER 구독](subscription.md) (계약서 발송은 PARTNER 전용)
 {% endhint %}
 
+{% hint style="info" %}
+회원이 서명을 완료하면 앱에서 등록된 수업권 목록을 확인할 수 있습니다.
+
+<img src=".gitbook/assets/등록된 회원권 목록.png" alt="앱에서 본 회원권 목록" width="240">
+{% endhint %}
+
 ---
 
 ## 2. 출석 체크는 어떻게 하나요?
@@ -60,23 +75,23 @@
 
 ### 키오스크 체크인
 
-<figure><img src=".gitbook/assets/키오스크 모드.gif" alt="키오스크 체크인"><figcaption>휴대폰 뒷자리 4자리 입력 → 회원 확인 → 체크인 완료</figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/키오스크 모드.gif" alt="키오스크 체크인" width="563"><figcaption>휴대폰 뒷자리 4자리 입력 → 회원 확인 → 체크인 완료</figcaption></figure></div>
 
 - **횟수제 수업권**은 체크인 시 자동으로 1회 차감됩니다.
 - **기간제 수업권**은 출석만 기록됩니다.
 
 ### 출석 시 벨트 자동 설정
 
-[데이터 이관](data-migration.md)이나 신규 관원 등록 후, 회원 한 명 한 명의 벨트를 일일이 등록하기 번거로울 수 있습니다.\
+[데이터 이관](data-migration.md) 후 또는 신규 관원 등록 후, 회원 한 명 한 명의 벨트를 일일이 등록하기 번거로울 수 있습니다.\
 이 기능을 켜면 **벨트가 설정되지 않은 회원이 키오스크에서 체크인할 때 1회만 벨트 선택 화면이 노출**됩니다. 한번 설정된 이후에는 다시 나타나지 않습니다.
 
-**① [대시보드](dashboard.md)에서 "출석 시 벨트 설정" 토글을 켭니다.**
+**① [대시보드](dashboard.md)에서 "출석체크로 벨트설정하기" 토글을 켭니다.**
 
-<figure><img src=".gitbook/assets/대시보드 토글.png" alt="대시보드 벨트 설정 토글"><figcaption>대시보드 → 출석 시 벨트 설정 토글 ON</figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/대시보드 토글.png" alt="대시보드 벨트 설정 토글" width="563"><figcaption>대시보드 → 도장 설정 → 출석체크로 벨트설정하기 토글 ON</figcaption></figure></div>
 
 **② 벨트가 미설정된 회원이 체크인하면 벨트 선택 화면이 나타납니다.**
 
-<figure><img src=".gitbook/assets/출석체크 벨트설정 기능.gif" alt="출석 시 벨트 설정"><figcaption>체크인 → 벨트 색상 선택 → 설정 완료 (1회만 노출)</figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/출석체크 벨트설정 기능.gif" alt="출석 시 벨트 설정" width="563"><figcaption>체크인 → 벨트 색상 선택 → 설정 완료 (벨트 미설정 회원에게 1회만 노출)</figcaption></figure></div>
 
 ### 출석 확인
 
@@ -158,9 +173,21 @@
 
 > 기존 시스템(다짐 등)에서 **Excel 파일**로 내보낸 후 업로드합니다.
 
-```
-기존 시스템에서 Excel 다운로드 → 매니저에서 업로드 → 자동 검증 → 관리자 승인 → 완료
-```
+### ① 이전할 프로그램 선택
+
+현재 다짐(DaGym) 형식을 지원합니다. 추후 다른 프로그램도 지원할 예정입니다.
+
+<div align="left"><figure><img src=".gitbook/assets/데이터 이전 프로그램 선택_다짐.png" alt="이전 프로그램 선택" width="563"><figcaption>다짐 선택 시 엑셀 파일 예시와 필수 컬럼 안내</figcaption></figure></div>
+
+### ② 약관 동의 후 Excel 파일 업로드
+
+<div align="left"><figure><img src=".gitbook/assets/데이터 파일 업로드.png" alt="데이터 파일 업로드" width="563"><figcaption>데이터 이전 약관 동의 → Excel 파일 업로드</figcaption></figure></div>
+
+### ③ 업로드 완료 → 관리자 검토
+
+파일 업로드가 완료되면 관리자가 검토 후 처리합니다. 보통 **1~2 영업일** 이내에 완료됩니다.
+
+<div align="left"><figure><img src=".gitbook/assets/회원 이전 데이터 업로드 완료.png" alt="업로드 완료" width="563"><figcaption>접수 완료 — 검토 후 처리 안내</figcaption></figure></div>
 
 → 자세히 보기: [데이터 이관](data-migration.md)
 
