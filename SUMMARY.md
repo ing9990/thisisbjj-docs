@@ -39,3 +39,4 @@
 ## 도움말 <a href="#help" id="help"></a>
 
 * [자주 묻는 질문](faq.md)
+* [Updates](updates.md)
