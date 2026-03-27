@@ -20,7 +20,6 @@
 
 - [지도자 인증 (사업자 인증)](leader-verification.md)
 - [계약서 발송](../contracts/sending.md)
-- [공지 발송](../announcements/manual.md)
 
 ---
 

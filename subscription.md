@@ -22,7 +22,6 @@
 | [서명된 계약서 관리](contracts/signed-management.md) | ❌ | ✅ |
 | [출석 통계](attendance/stats.md) | ❌ | ✅ |
 | [승급식](ceremonies.md) | ❌ | ✅ |
-| [공지 발송](announcements/manual.md) | ❌ | ✅ |
 | [자동 메시지](announcements/auto-messages.md) | ❌ | ✅ |
 | [정산](settlement.md) | ❌ | ✅ |
 

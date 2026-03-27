@@ -60,7 +60,7 @@
 
 ## 메시지 이력
 
-해당 회원에게 발송된 [공지](../announcements/manual.md), [자동 메시지](../announcements/auto-messages.md) 이력을 확인합니다.
+해당 회원에게 발송된 [자동 메시지](../announcements/auto-messages.md) 이력을 확인합니다.
 
 ## 메모
 

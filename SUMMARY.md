@@ -26,9 +26,8 @@
   * [키오스크 설정](attendance/kiosk.md)
   * [출석 통계](attendance/stats.md)
 * [승급식](ceremonies.md)
-* [공지 & 자동 메시지](announcements/README.md)
-  * [공지 발송](announcements/manual.md)
-  * [자동 메시지](announcements/auto-messages.md)
+* [자동 메시지](announcements/README.md)
+  * [자동 메시지 설정](announcements/auto-messages.md)
 * [정산](settlement.md)
 
 ## 계정 & 요금 <a href="#billing" id="billing"></a>
