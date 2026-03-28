@@ -5,6 +5,42 @@
 
 ---
 
+## 지도자가 미리 준비해야 할 사항
+
+회원을 받기 전에 **계약서**와 **지도자 서명**을 미리 준비하세요.
+
+### 1. 계약서 만들기
+
+기본 제공되는 템플릿(이용약관, 수업 규정, 면책 규정 등)을 바탕으로 도장에 맞는 계약서를 구성합니다.
+
+<div align="left"><figure><img src=".gitbook/assets/계약서 기본 템플릿 제공.png" alt="계약서 기본 템플릿" width="563"><figcaption>기본 제공 섹션 — 이용약관, 수업 규정, 면책 규정, 개인정보 동의 등</figcaption></figure></div>
+
+각 섹션을 눌러 내용을 자유롭게 수정할 수 있습니다.\
+도장 규칙에 맞게 조항을 추가하거나 삭제하세요.
+
+<div align="left"><figure><img src=".gitbook/assets/계약서 조항 커스터마이징.png" alt="계약서 조항 커스터마이징" width="563"><figcaption>섹션 내용을 도장에 맞게 직접 수정</figcaption></figure></div>
+
+완성된 계약서는 저장 후 회원권에 연결하면 바로 사용할 수 있습니다.
+
+<div align="left"><figure><img src=".gitbook/assets/계약서 템플릿 저장됨.png" alt="계약서 템플릿 저장" width="563"><figcaption>계약서 템플릿 저장 완료 — 회원권에 연결하면 바로 발송 가능</figcaption></figure></div>
+
+→ 자세히 보기: [계약서 관리](contracts/)
+
+### 2. 지도자 서명 등록
+
+계약서 PDF에 포함될 **지도자 서명**을 미리 등록합니다.\
+직접 그리거나 서명 이미지를 업로드할 수 있습니다.
+
+<div align="left"><figure><img src=".gitbook/assets/서명관리_이미지 업로드.png" alt="서명 이미지 업로드" width="375"><figcaption>서명 이미지 파일(PNG, JPG)을 업로드</figcaption></figure></div>
+
+<div align="left"><figure><img src=".gitbook/assets/서명관리_사진 자르기.png" alt="서명 영역 자르기" width="375"><figcaption>드래그로 서명 영역을 조정</figcaption></figure></div>
+
+<div align="left"><figure><img src=".gitbook/assets/서명관리_등록완료.png" alt="서명 등록 완료" width="375"><figcaption>등록된 서명은 모든 계약서 템플릿에 일괄 적용</figcaption></figure></div>
+
+→ 자세히 보기: [계약서 관리](contracts/)
+
+---
+
 ## 회원 등록하기
 
 준비가 끝났으면 회원을 등록합니다.
@@ -13,7 +49,7 @@
 
 회원권을 선택하고 이름·전화번호를 입력하면 **카카오 알림톡**으로 계약서 링크가 발송됩니다.
 
-<div align="left"><figure><img src=".gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>회원권 선택 → 수신자 정보 입력 → 발송</figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/계약서 발송.png" alt="계약서 발송 화면" width="563"><figcaption>회원권 선택 → 수신자 정보 입력 → 링크 생성</figcaption></figure></div>
 
 회원은 앱 설치 없이 **모바일 브라우저에서 바로 서명**합니다.
 
@@ -33,6 +69,23 @@
 파일 업로드 후 관리자 검토를 거쳐 보통 **1\~2 영업일** 이내에 이전이 완료됩니다.
 
 → 자세히 보기: [데이터 이관](data-migration.md)
+
+---
+
+## 계약서 발송 이후 회원이 해야 할 것
+
+계약서 링크를 받은 회원은 모바일에서 간단히 온보딩을 완료합니다.
+
+1. **카카오 알림톡**으로 받은 링크를 클릭
+2. 계약서 내용 확인 후 **전자 서명**
+3. 본인 인증(휴대폰 번호 확인)
+4. 서명 완료 — 지도자에게 실시간 알림
+
+{% hint style="info" %}
+회원은 별도 앱 설치 없이 **모바일 브라우저에서 모든 과정을 완료**합니다.
+{% endhint %}
+
+→ 자세히 보기: [회원 서명 과정](contracts/signing-flow.md)
 
 ---
 
@@ -121,11 +174,13 @@
 출석 기준으로 승급 후보자를 **자동 추출**하고, 검토 후 **일괄 승급**합니다.\
 더 이상 엑셀이나 수첩에 출석일수를 세지 않아도 됩니다.
 
+<div align="left"><figure><img src=".gitbook/assets/승급식 관리.png" alt="승급식 관리" width="563"><figcaption>승급식 목록 — 회차별 상태, 대상 인원, 승급 현황을 한눈에</figcaption></figure></div>
+
 ```
 승급식 생성 → 최소 출석일 설정 → 후보자 자동 추출 → 벨트 검토·조정 → 확정 → 일괄 승급
 ```
 
-<div align="left"><figure><img src=".gitbook/assets/승급 대상자 조회.png" alt="승급 대상자 조회" width="563"><figcaption>출석 기준으로 후보자를 자동 추출하고, 벨트를 개별 조정</figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/승급식 승급대상회원.png" alt="승급 대상 회원" width="563"><figcaption>마지막 승급일 기준 N일 출석한 회원을 자동 추출 — 목표 벨트 개별 조정 가능</figcaption></figure></div>
 
 | 기능 | 설명 |
 |---|---|
@@ -133,8 +188,6 @@
 | 벨트 개별 조정 | 후보자별로 승급 벨트를 변경하거나 제외 가능 |
 | 일괄 승급 실행 | 확정 후 한 번에 모든 후보자의 벨트를 업데이트 |
 | 이전 기준 불러오기 | 지난 승급식 조건을 그대로 재사용 |
-
-<div align="left"><figure><img src=".gitbook/assets/승급식 완료.png" alt="승급식 완료" width="563"><figcaption>확정 후 일괄 승급 실행 — 모든 후보자의 벨트가 한 번에 업데이트</figcaption></figure></div>
 
 → 자세히 보기: [승급식](ceremonies.md)
 
