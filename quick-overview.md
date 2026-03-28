@@ -5,48 +5,6 @@
 
 ---
 
-## 시작하기
-
-회원을 받기 전에 딱 3가지만 준비하세요.
-
-### 1. 입관 계약서 생성
-
-종이 계약서 대신 **전자 계약서**를 사용합니다.\
-환불 규정, 촬영 동의, 주의사항 등 도장에 맞는 양식을 직접 구성할 수 있습니다.
-
-지도자 서명을 미리 등록해 두면 회원이 서명할 때 계약서 PDF에 함께 들어갑니다.
-
-<div align="left"><figure><img src=".gitbook/assets/서명 등록.png" alt="지도자 서명 등록" width="375"><figcaption>서명을 직접 그려서 등록</figcaption></figure></div>
-
-<div align="left"><figure><img src=".gitbook/assets/서명 등록 완료됨.png" alt="서명 등록 완료" width="375"><figcaption>등록된 서명은 모든 계약서에 자동 적용</figcaption></figure></div>
-
-→ 자세히 보기: [계약서 관리](contracts/)
-
-### 2. 회원권 생성
-
-**기간제**(1개월, 3개월…) 또는 **횟수제**(10회, 20회…) 회원권을 등록합니다.\
-정가·할인가·설명을 한 화면에서 설정합니다.
-
-<div align="left"><figure><img src=".gitbook/assets/회원권 생성_1.png" alt="회원권 타입 선택" width="375"><figcaption>기간권 / 횟수권 선택 후 기본 정보 입력</figcaption></figure></div>
-
-→ 자세히 보기: [회원권 관리](membership-plans.md)
-
-### 3. 회원권에 입관 계약서 연결
-
-만든 계약서를 회원권에 연결합니다.\
-이후 해당 회원권으로 계약서를 발송하면 **연결된 양식이 자동으로 적용**됩니다.\
-회원권마다 다른 계약서를 연결할 수 있어, 수업 유형별로 계약 조건을 다르게 운용할 수 있습니다.
-
-<div align="left"><figure><img src=".gitbook/assets/회원권 생성_2.png" alt="계약서 템플릿 연결" width="375"><figcaption>회원권 생성 시 계약서 템플릿 연결</figcaption></figure></div>
-
-{% hint style="info" %}
-등록된 회원권은 [주짓주짓 매니저](https://manager.thisisbjj.com)에서 언제든 확인하고 수정할 수 있습니다.
-
-<img src=".gitbook/assets/등록된 회원권 목록.png" alt="등록된 회원권 목록" width="240">
-{% endhint %}
-
----
-
 ## 회원 등록하기
 
 준비가 끝났으면 회원을 등록합니다.
