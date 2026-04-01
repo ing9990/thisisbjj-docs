@@ -30,9 +30,9 @@
   * [자동 메시지 설정](announcements/auto-messages.md)
 * [정산](settlement.md)
 
-## 계정 & 요금 <a href="#billing" id="billing"></a>
+## 계정 <a href="#billing" id="billing"></a>
 
-* [구독 & 요금제](subscription.md)
+* [요금 안내](subscription.md)
 * [데이터 이관](data-migration.md)
 
 ## 도움말 <a href="#help" id="help"></a>

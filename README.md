@@ -40,11 +40,11 @@
 | [공지 & 자동 메시지](announcements/) | 단체 공지, 자동 알림 설정 |
 | [정산](settlement.md) | 매출 현황, 결제 내역, Excel 내보내기 |
 
-### 계정 & 요금
+### 계정
 
 | 기능 | 설명 |
 |---|---|
-| [구독 & 요금제](subscription.md) | FREE / PARTNER 비교, 구독 관리 |
+| [요금 안내](subscription.md) | 모든 기능 무료 제공 |
 | [데이터 이관](data-migration.md) | 기존 시스템에서 회원 데이터 가져오기 |
 
 ### 도움말
