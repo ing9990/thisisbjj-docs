@@ -32,7 +32,6 @@
 
 ## 계정 <a href="#billing" id="billing"></a>
 
-* [요금 안내](subscription.md)
 * [데이터 이관](data-migration.md)
 
 ## 도움말 <a href="#help" id="help"></a>
