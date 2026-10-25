@@ -1,59 +1,44 @@
 # 주짓주짓 매니저 이용 가이드
 
-> 도장 운영의 모든 것을 한 곳에서. [주짓주짓 매니저](https://manager.thisisbjj.com)와 함께하세요.
+> 회원, 계약서, 출석, 승급, 매출을 한곳에서. [주짓주짓 매니저](https://manager.thisisbjj.com)와 함께하세요.
 
 ---
 
 ## 주짓주짓 매니저란?
 
-**주짓주짓 매니저**는 주짓수 도장의 운영을 돕는 SaaS 플랫폼입니다.\
-회원 관리, 전자 계약서, 출석 키오스크, 벨트 승급, 매출 정산까지 — 도장 운영에 필요한 모든 기능을 [주짓주짓 매니저](https://manager.thisisbjj.com)에서 제공합니다.
+**주짓주짓 매니저**는 **주짓수 도장과 태권도 도장**을 위한 운영 서비스입니다.\
+전자 계약서, 출석 키오스크, 승급 관리, 키즈 등·하원 알림, 매출 정산까지 PC와 휴대폰 브라우저에서 바로 쓸 수 있습니다.
 
 {% hint style="success" %}
-처음 사용하신다면 [**주요 기능 훑어보기**](quick-overview.md)에서 실제 도장 운영 시나리오별로 핵심 기능을 확인하세요.
+처음이라면 [**주요 기능 훑어보기**](quick-overview.md)부터 읽어 보세요.
 {% endhint %}
 
 ---
 
 ## 이 가이드의 구성
 
+가이드는 **어느 도장이든 똑같이 쓰는 기능**과 **종목별로 다른 기능**으로 나뉘어 있습니다.
+
+| 구분 | 내용 | 바로가기 |
+|---|---|---|
+| **시작하기** | 로그인, 도장 등록, 사업자 인증, 시작 가이드 | [로그인](getting-started/login.md) |
+| **공통 기능** | 회원·회원권·계약서·출석·키즈 등·하원·자동 메시지·매출 | [대시보드](dashboard.md) |
+| **주짓수 도장** | 벨트(그랄·유소년 벨트), 승급식 | [주짓수 도장 운영](jiujitsu/README.md) |
+| **태권도 도장** | 급·품·단 띠 설정, 승급 심사 | [태권도 도장 운영](taekwondo/README.md) |
+
+{% hint style="info" %}
+종목은 [도장 등록](getting-started/gym-registration.md)할 때 고릅니다. 고른 종목에 맞춰 메뉴 이름, 띠 목록, 계약서 초안이 바뀝니다.
+{% endhint %}
+
 ### 시작하기
 
-처음 [주짓주짓 매니저](https://manager.thisisbjj.com)를 사용하신다면 아래 순서대로 진행해 주세요.
-
-1. [로그인](getting-started/login.md) — 소셜 계정으로 간편 로그인
-2. [전화번호 인증](getting-started/phone-verification.md) — 본인 확인
-3. [지도자 인증 (사업자 인증)](getting-started/leader-verification.md) — 도장 소유권 확인
-4. [셋업 체크리스트](getting-started/setup-checklist.md) — 주요 설정 완료 가이드
-
-### 도장 운영
-
-| 기능 | 설명 |
-|---|---|
-| [대시보드](dashboard.md) | 도장 현황을 한눈에 |
-| [도장 정보](gym-info.md) | 도장 기본 정보 설정 |
-| [회원 관리](members/) | 회원 조회, 벨트, 회원권, 메모 |
-| [회원권 관리](membership-plans.md) | 기간제/횟수제 회원권 설정 |
-| [계약서 관리](contracts/) | 전자 계약서 발송 및 서명 |
-| [출석 & 키오스크](attendance/) | 셀프 체크인, 출석 통계 |
-| [승급식](ceremonies.md) | 벨트 승급 행사 관리 |
-| [공지 & 자동 메시지](announcements/) | 단체 공지, 자동 알림 설정 |
-| [정산](settlement.md) | 매출 현황, 결제 내역, Excel 내보내기 |
-
-### 계정
-
-| 기능 | 설명 |
-|---|---|
-| [데이터 이관](data-migration.md) | 기존 시스템에서 회원 데이터 가져오기 |
-
-### 도움말
-
-| 기능 | 설명 |
-|---|---|
-| [자주 묻는 질문](faq.md) | 카테고리별 FAQ |
+1. [로그인](getting-started/login.md): 휴대폰 번호 또는 카카오·네이버·구글 계정
+2. [도장 등록](getting-started/gym-registration.md): 종목을 고르고 도장을 찾거나 직접 입력
+3. [사업자 인증](getting-started/business-verification.md): 국세청 정보로 바로 확인
+4. [시작 가이드](getting-started/setup-checklist.md): 운영 준비 5단계
 
 ---
 
 ## 문의
 
-사용 중 궁금한 점이 있으시면 [카카오톡 채널](https://pf.kakao.com/_NnxmZX)로 문의해 주세요.
+궁금한 점은 매니저 화면 왼쪽 아래 **문의하기** 또는 [카카오톡 채널](https://pf.kakao.com/_NnxmZX)로 남겨 주세요.

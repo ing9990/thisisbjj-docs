@@ -1,49 +1,59 @@
-# 계약서 발송
+# 계약서 보내기
 
-회원에게 전자 계약서 링크를 전송합니다.
+회원에게 전자 계약서 서명 링크를 보냅니다. 새 회원은 이 방법으로 한 명씩 등록합니다.
 
 ---
 
-## 사전 조건
+## 사전 준비
 
-{% hint style="danger" %}
-계약서 발송을 위해 아래 항목이 **모두** 완료되어야 합니다.
+{% hint style="warning" %}
+아래 두 가지가 먼저 준비돼 있어야 합니다.
 
-1. [전화번호 인증](../getting-started/phone-verification.md)
-2. [지도자 인증](../getting-started/leader-verification.md)
-3. [회원권](../membership-plans.md) 1개 이상 생성
-4. [계약서 템플릿](README.md) 생성 및 회원권 연결
+1. [회원권](../membership-plans.md) 1개 이상
+2. 회원권에 연결된 [계약서 양식](README.md)
 {% endhint %}
 
-## 발송 방법
+## 보내는 방법
 
-[주짓주짓 매니저](https://manager.thisisbjj.com) → **계약서** → **계약서 발송** 메뉴에서 진행합니다.
+**전자 계약서 → 계약서 보내기** 메뉴에서 진행합니다.
 
-### STEP 1 — 회원권 선택
+<div align="left"><figure><img src="../.gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 보내기 화면" width="563"><figcaption>회원권 선택 → 받는 사람 입력 → 링크 만료 시간 선택</figcaption></figure></div>
 
-어떤 회원권으로 등록할지 선택합니다. 회원권에 연결된 계약서 템플릿이 자동으로 적용됩니다.
+### STEP 1. 회원권 고르기
 
-### STEP 2 — 수신자 입력
+회원권을 고르면 연결된 계약서 양식이 자동으로 붙습니다.
 
-회원 이름과 휴대폰 번호를 입력하고 링크 만료 시간을 설정합니다.
+### STEP 2. 받는 사람 입력
 
-<div align="left"><figure><img src="../.gitbook/assets/발송할 회원권과 회원정보 입력.png" alt="계약서 발송 화면" width="563"><figcaption>회원권 선택 → 수신자 정보 입력 → 링크 만료 시간 설정</figcaption></figure></div>
+회원 이름과 휴대폰 번호를 입력합니다.
 
-### STEP 3 — 발송
+### STEP 3. 링크 만료 시간 고르기
 
-**카카오 알림톡** 또는 **SMS**로 계약서 서명 링크가 전송됩니다.
+**1시간 · 2시간 · 6시간 · 12시간 · 24시간** 중에서 고릅니다. 기본은 **2시간**입니다.
+
+### STEP 4. 보내기
+
+회원에게 **카카오 알림톡**으로 서명 링크가 갑니다. 화면에 나온 링크를 복사해 직접 전달할 수도 있습니다.
+
+<div align="center"><figure><img src="../.gitbook/assets/계약서 수신.jpg" alt="회원이 받는 알림톡" width="280"><figcaption>회원이 받는 카카오 알림톡</figcaption></figure></div>
 
 {% hint style="info" %}
-발송된 링크는 **2시간** 동안 유효합니다. 시간이 초과되면 다시 발송해야 합니다.
+보내는 동안에는 버튼이 잠겨, 두 번 눌러도 계약서가 한 번만 나갑니다.
 {% endhint %}
 
-## 회원이 서명하면?
+## 보낸 뒤에는
 
-회원이 서명을 완료하면 [서명된 계약서 관리](signed-management.md)에서 확인할 수 있습니다.\
-회원의 서명 과정이 궁금하시면 [회원 서명 과정](signing-flow.md)을 참고하세요.
+- 아래 목록에서 링크 상태(대기 · 서명 완료 · 만료)를 **실시간**으로 확인할 수 있습니다.
+- 회원이 서명하면 브라우저 알림이 뜹니다.
+- 서명된 계약서는 [서명 완료된 계약서](signed-management.md)에서 결제 확인을 합니다.
+- 링크가 만료되면 다시 보내 주세요.
+
+{% hint style="warning" %}
+**기본 플랜(무료)**은 계약서를 **30일마다 5건**까지 보낼 수 있습니다. → [구독 관리](../subscription.md)
+{% endhint %}
 
 ---
 
 ## 문의
 
-발송이 실패하거나 알림톡이 도착하지 않는 경우 [카카오톡 채널](https://pf.kakao.com/_NnxmZX)로 문의해 주세요.
+알림톡이 도착하지 않으면 [카카오톡 채널](https://pf.kakao.com/_NnxmZX)로 문의해 주세요.

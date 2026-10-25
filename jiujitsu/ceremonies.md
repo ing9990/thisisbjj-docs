@@ -1,19 +1,19 @@
 # 승급식
 
-회원 벨트 승급 행사를 체계적으로 관리합니다.\
+회원 벨트 승급을 한 번에 관리합니다.\
 출석 기준으로 후보자를 자동 추출하고, 검토 후 일괄 승급을 실행합니다.
 
 ---
 
-{% hint style="warning" %}
-승급식 기능은 [지도자 인증](getting-started/leader-verification.md)이 완료되어야 사용할 수 있습니다.
+{% hint style="info" %}
+주짓수 도장의 승급식입니다. 태권도 도장은 [승급 심사](../taekwondo/promotion-test.md)를 참고하세요.
 {% endhint %}
 
 ## 승급식 목록
 
-[주짓주짓 매니저](https://manager.thisisbjj.com) → **승급식** 메뉴에서 전체 승급식을 관리합니다.
+**회원 → 승급식** 메뉴에서 전체 승급식을 관리합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급식 승급식 생성.png" alt="승급식 목록 화면" width="563"><figcaption>승급식 목록 — 전체 건수, 준비 중, 총 승급 인원을 한눈에 확인</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급식 승급식 생성.png" alt="승급식 목록 화면" width="563"><figcaption>승급식 목록 — 전체 건수, 준비 중, 총 승급 인원을 한눈에 확인</figcaption></figure></div>
 
 상단에 **전체 건수**, **준비 중**, **총 승급 인원** 통계가 표시됩니다.\
 각 승급식의 상태(준비 중 / 완료), 대상 인원, 승급 인원을 바로 확인할 수 있습니다.
@@ -32,7 +32,7 @@
 
 우측 상단 **"+ 새 승급식"** 버튼을 클릭합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급식 생성 모달.png" alt="새 승급식 생성 모달" width="375"><figcaption>승급식 생성 — 이름, 날짜, 최소 출석일 입력</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급식 생성 모달.png" alt="새 승급식 생성 모달" width="375"><figcaption>승급식 생성 — 이름, 날짜, 최소 출석일 입력</figcaption></figure></div>
 
 | 입력 항목 | 설명 | 예시 |
 |---|---|---|
@@ -53,7 +53,7 @@
 
 승급식 상세 페이지에서 **"대상자 검색"** 버튼을 클릭하면 조건에 맞는 회원이 자동으로 추출됩니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급식 승급대상회원.png" alt="승급 대상 회원 목록" width="563"><figcaption>후보자 목록 — 현재 벨트, 목표 벨트, 출석일수를 확인하고 개별 조정 가능</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급식 승급대상회원.png" alt="승급 대상 회원 목록" width="563"><figcaption>후보자 목록 — 현재 벨트, 목표 벨트, 출석일수를 확인하고 개별 조정 가능</figcaption></figure></div>
 
 **자동 추출 조건:**
 
@@ -77,7 +77,7 @@
 
 자동 추출에 포함되지 않은 회원을 직접 추가할 수 있습니다. 검색창에 이름을 입력하면 해당 도장의 회원 목록에서 검색됩니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급 대상자 개별 추가.png" alt="회원 수동 추가" width="563"><figcaption>이름 검색으로 회원을 수동 추가</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급 대상자 개별 추가.png" alt="회원 수동 추가" width="563"><figcaption>이름 검색으로 회원을 수동 추가</figcaption></figure></div>
 
 {% hint style="info" %}
 출석 기준에는 미달하지만 실력이 충분한 회원, 또는 타 도장에서 이적한 회원을 수동으로 추가할 때 유용합니다.
@@ -87,14 +87,14 @@
 
 각 후보자 행의 버튼으로 개별 조정합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급 대상자 추가:삭제.png" alt="후보자 제외 및 벨트 변경" width="563"><figcaption>후보자별 벨트 변경(✏️)과 제외(✕) 버튼</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급 대상자 추가:삭제.png" alt="후보자 제외 및 벨트 변경" width="563"><figcaption>후보자별 벨트 변경(✏️)과 제외(✕) 버튼</figcaption></figure></div>
 
 | 기능 | 사용 시점 | 방법 |
 |---|---|---|
 | **승급 벨트 변경** | 자동 추천과 다른 벨트로 승급할 때 | 후보자 행의 ✏️ 버튼 |
 | **후보자 제외** | 이번 승급식에서 빼야 할 때 | 후보자 행의 ✕ 버튼 |
 | **제외 복원** | 제외한 회원을 다시 포함할 때 | 제외된 후보자의 복원 버튼 |
-| **초기 벨트 설정** | 벨트가 미설정된 회원 | 경고 영역에서 벨트 지정 |
+| **초기 벨트 설정** | 벨트가 미설정된 회원 | 경고 영역에서 벨트 지정 ("확정 전에 벨트를 설정해주세요") |
 
 **벨트·상태 필터** — 상단 필터로 특정 벨트, 상태(전체/제외)별로 후보자를 필터링할 수 있습니다.
 
@@ -108,7 +108,7 @@
 
 후보자 검토가 끝나면 **"확정"** 버튼을 클릭합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급식 대상자 확정.png" alt="승급식 확정 상태" width="563"><figcaption>확정 상태 — 대상자가 잠기고, 엑셀 다운로드와 승급 실행이 가능</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급식 대상자 확정.png" alt="승급식 확정 상태" width="563"><figcaption>확정 상태 — 대상자가 잠기고, 엑셀 다운로드와 승급 실행이 가능</figcaption></figure></div>
 
 확정되면:
 - 후보자 목록이 **잠기고** 추가·제외·벨트 변경이 불가능합니다.
@@ -128,9 +128,14 @@
 **실행 시 처리 내용:**
 
 1. 모든 대상 후보자의 벨트가 목표 벨트로 변경됩니다.
-2. 각 회원의 [승급 이력](members/belt-management.md)에 기록됩니다.
+2. 각 회원의 [승급 이력](belts.md)에 기록됩니다.
 3. 승급자, 승급일, 승급식 정보가 함께 저장됩니다.
 4. 승급식 상태가 **"완료"** 로 변경됩니다.
+5. [자동 메시지](../announcements/auto-messages.md)의 **승급 축하 알림**이 켜져 있으면 승급한 회원에게 축하 메시지가 갑니다.
+
+{% hint style="info" %}
+실행 버튼을 두 번 눌러도 승급은 한 번만 처리됩니다.
+{% endhint %}
 
 {% hint style="danger" %}
 승급 실행 후에는 **되돌릴 수 없습니다**. 반드시 후보자 목록과 목표 벨트를 충분히 검토한 후 실행하세요.
@@ -144,7 +149,7 @@
 
 상세 페이지의 **"엑셀 다운로드"** 버튼을 클릭하면 회원 이름, 현재 벨트, 목표 벨트, 출석일수, 상태가 포함된 엑셀 파일이 다운로드됩니다.
 
-<div align="left"><figure><img src=".gitbook/assets/승급식 데이터 엑셀 출력 예시.png" alt="엑셀 출력 예시" width="563"><figcaption>엑셀 출력 예시 — 회원별 현재 벨트, 목표 벨트, 출석, 상태 확인</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/승급식 데이터 엑셀 출력 예시.png" alt="엑셀 출력 예시" width="563"><figcaption>엑셀 출력 예시 — 회원별 현재 벨트, 목표 벨트, 출석, 상태 확인</figcaption></figure></div>
 
 승급식 기록 보관이나 회원에게 결과를 공유할 때 활용하세요.
 
@@ -166,7 +171,7 @@
 도장의 수업 빈도와 승급 주기에 따라 다릅니다. 처음에는 낮게 설정해서 후보자 목록을 확인한 뒤, 필요하면 기준을 올리고 다시 검색하세요.
 
 **Q. 승급식 없이 개별 승급도 가능한가요?**\
-네. [벨트 관리](members/belt-management.md) 페이지에서 개별 회원의 벨트를 즉시 변경할 수 있습니다.
+네. [벨트 관리](belts.md) 페이지에서 개별 회원의 벨트를 즉시 변경할 수 있습니다.
 
 **Q. 이전 승급식 기록을 다시 볼 수 있나요?**\
 완료된 승급식도 목록에 계속 남아 있습니다. 클릭하면 당시 후보자와 승급 결과를 확인할 수 있습니다.
@@ -176,5 +181,5 @@
 
 ---
 
-→ 개별 벨트 관리: [벨트 관리](members/belt-management.md)\
-→ 회원 출석 확인: [출석 통계](attendance/stats.md)
+→ 개별 벨트 관리: [벨트 관리](belts.md)\
+→ 회원 출석 확인: [출석 통계](../attendance/stats.md)
