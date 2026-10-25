@@ -52,6 +52,9 @@ A. [띠 설정](taekwondo/ranks.md)에서 이름과 색을 바꾸고, 쓰지 않
 **Q. 미성년자도 계약할 수 있나요?**\
 A. 네. 서명할 때 보호자 정보를 입력하며, 입력한 정보는 키즈 등·하원 알림에도 쓰입니다. → [회원 서명 과정](contracts/signing-flow.md)
 
+**Q. 회원이 서명한 계약서를 다시 보고 싶어 해요.**\
+A. 서명 완료 화면의 **"계약서 확인하기"** 또는 [manager.thisisbjj.com/p/contracts](https://manager.thisisbjj.com/p/contracts)에서 휴대폰 번호로 인증하면 볼 수 있습니다. → [회원 서명 과정](contracts/signing-flow.md)
+
 **Q. 계약서 링크가 만료됐어요.**\
 A. 링크는 보낼 때 정한 시간(기본 2시간) 동안만 열립니다. [계약서 보내기](contracts/sending.md)에서 다시 보내 주세요.
 
