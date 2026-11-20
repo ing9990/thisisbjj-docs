@@ -25,9 +25,10 @@ def lint(path: str) -> list[str]:
     title = re.search(r"^# (.+)$", src, re.M)
     lines = [l for l in text.splitlines() if not l.startswith("# ")]      # 페이지 제목(# )은 사이드바 이름이라 검사 밖
     body = "\n".join(lines)
+    plain = re.sub(r"\*\*[^*]+\*\*", "", body)   # **굵게** 쓴 실제 버튼·메뉴 이름(예: 등·하원) 안의 가운뎃점은 허용
     out = []
     for ch, how in BANNED.items():
-        n = body.count(ch)
+        n = (plain if ch == "·" else body).count(ch)
         if n:
             out.append(f"'{ch}' {n}개 — {how}")
     chars = len(re.sub(r"\s", "", body))
