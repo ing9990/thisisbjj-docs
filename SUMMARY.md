@@ -5,11 +5,11 @@
 ## 시작하기 <a href="#getting-started" id="getting-started"></a>
 
 * [주짓주짓 매니저 한눈에](getting-started/overview.md)
-* [① 가입과 로그인](getting-started/login.md)
-* [② 체육관 등록](getting-started/gym-registration.md)
-* [③ 체육관 페이지 꾸미기](getting-started/gym-page-setup.md)
-* [④ 관리 시작하기](getting-started/start-management.md)
-* [⑤ 회원 옮기기](getting-started/import-members.md)
+* [가입과 로그인](getting-started/login.md)
+* [체육관 등록](getting-started/gym-registration.md)
+* [체육관 페이지 꾸미기](getting-started/gym-page-setup.md)
+* [관리 시작하기](getting-started/start-management.md)
+* [회원 옮기기](getting-started/import-members.md)
 * [웹과 iPhone 앱](getting-started/web-and-app.md)
 
 ## 새 회원 모으기 <a href="#new-members" id="new-members"></a>
