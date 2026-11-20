@@ -38,7 +38,7 @@ icon: file-signature
 
 <div align="left"><figure><img src="../.gitbook/assets/web-renew-contract.webp" alt="재등록 화면의 계약서 칸" width="563"></figure></div>
 
-재등록 없이 계약서만 받으려면 회원 상세 오른쪽 위 더보기에서 **계약서 받기**를 눌러요.
+재등록 없이 계약서만 받으려면 회원 상세 오른쪽 위 점 세 개 버튼을 누르고 **계약서 받기**를 눌러요.
 
 ## 보낸 뒤 확인하기
 
