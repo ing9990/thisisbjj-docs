@@ -29,7 +29,7 @@
 * [알림톡](announcements/README.md)
   * [자동 알림톡](announcements/auto-messages.md)
 * [매출](settlement.md)
-* [회원 데이터 옮기기](data-migration.md)
+* [엑셀로 회원 등록](data-migration.md)
 * [구독 관리](subscription.md)
 
 ## 주짓수 도장 <a href="#jiujitsu" id="jiujitsu"></a>
