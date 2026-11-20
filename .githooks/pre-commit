@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# 바꾼 페이지만 검사한다(scripts/lint_docs.py). 설치: git config core.hooksPath .githooks
+files=$(git diff --cached --name-only --diff-filter=ACM -- '*.md' | grep -v '^SUMMARY.md$')
+[ -z "$files" ] && exit 0
+python3 scripts/lint_docs.py $files
