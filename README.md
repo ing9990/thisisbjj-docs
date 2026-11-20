@@ -10,7 +10,7 @@ description: 격투기 체육관 관장님을 위한 주짓주짓 매니저 이�
 
 ## 무엇을 하고 싶으세요?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>처음 시작해요</strong></td><td>가입부터 체육관 등록, 회원 옮기기까지 순서대로 따라 해요.</td><td><a href="getting-started/overview.md">overview.md</a></td></tr><tr><td><strong>새 회원을 모으고 싶어요</strong></td><td>체육관 페이지를 채우고 근처 찾기에 보이게 해요. 무료예요.</td><td><a href="new-members/gym-page.md">gym-page.md</a></td></tr><tr><td><strong>회원과 출석을 관리하고 싶어요</strong></td><td>출석 키오스크, 회원권, 결제 기록, 입관계약서를 써요.</td><td><a href="members/README.md">README.md</a></td></tr><tr><td><strong>요금이 궁금해요</strong></td><td>계속 무료로 쓰는 것과 30일 무료 뒤 구독하는 것을 나눠 봐요.</td><td><a href="billing/subscription.md">subscription.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>처음 시작할래요</strong></td><td><a href="getting-started/overview.md">overview.md</a></td></tr><tr><td><strong>회원을 모으고 싶어요</strong></td><td><a href="new-members/gym-page.md">gym-page.md</a></td></tr><tr><td><strong>체육관을 관리할래요</strong></td><td><a href="members/README.md">README.md</a></td></tr><tr><td><strong>요금이 궁금해요</strong></td><td><a href="billing/subscription.md">subscription.md</a></td></tr></tbody></table>
 
 ## 처음 30분 안에 시작하기
 
