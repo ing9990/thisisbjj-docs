@@ -37,7 +37,7 @@
 4. 이용자의 권리와 의무
 5. 개인정보 수집 및 이용 동의
 
-내용은 도장에 맞게 고칠 수 있습니다.
+내용은 체육관에 맞게 고칠 수 있습니다.
 
 ### 종목별 추가 조항
 
@@ -48,7 +48,7 @@
 
 양식 편집 화면의 **환불 규정 넣기 · 사진·영상 동의 넣기**로 자주 쓰는 조항을 바로 넣을 수 있습니다. 환불 규정은 초안으로 들어가니 체육관 규정에 맞게 고쳐 주세요.
 
-<div align="left"><figure><img src="../.gitbook/assets/계약서 조항 커스터마이징.png" alt="조항 수정" width="563"><figcaption>조항을 눌러 도장에 맞게 수정</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/계약서 조항 커스터마이징.png" alt="조항 수정" width="563"><figcaption>조항을 눌러 체육관에 맞게 수정</figcaption></figure></div>
 
 - 조항을 추가·수정·삭제할 수 있습니다.
 - 위로·아래로 버튼으로 순서를 바꿀 수 있습니다.

@@ -6,14 +6,14 @@
 ## 시작하기 <a href="#getting-started" id="getting-started"></a>
 
 * [로그인](getting-started/login.md)
-* [도장 등록](getting-started/gym-registration.md)
+* [체육관 등록](getting-started/gym-registration.md)
 * [사업자 인증](getting-started/business-verification.md)
 * [시작 가이드](getting-started/setup-checklist.md)
 
 ## 공통 기능 <a href="#common" id="common"></a>
 
-* [대시보드](dashboard.md)
-* [도장 정보](gym-info.md)
+* [홈](dashboard.md)
+* [체육관 정보](gym-info.md)
 * [회원 관리](members/README.md)
   * [회원 상세](members/detail.md)
 * [회원권 관리](membership-plans.md)
@@ -32,17 +32,17 @@
 * [엑셀로 회원 등록](data-migration.md)
 * [구독 관리](subscription.md)
 
-## 주짓수 도장 <a href="#jiujitsu" id="jiujitsu"></a>
+## 주짓수 체육관 <a href="#jiujitsu" id="jiujitsu"></a>
 
-* [주짓수 도장 운영](jiujitsu/README.md)
+* [주짓수 체육관 운영](jiujitsu/README.md)
 * [벨트 관리](jiujitsu/belts.md)
 * [승급식](jiujitsu/ceremonies.md)
 
-## 태권도 도장 <a href="#taekwondo" id="taekwondo"></a>
+## 태권도 체육관 <a href="#taekwondo" id="taekwondo"></a>
 
-* [태권도 도장 운영](taekwondo/README.md)
+* [태권도 체육관 운영](taekwondo/README.md)
 * [띠 설정](taekwondo/ranks.md)
-* [승급 심사](taekwondo/promotion-test.md)
+* [승급식 (태권도)](taekwondo/promotion-test.md)
 
 ## 도움말 <a href="#help" id="help"></a>
 
