@@ -4,8 +4,50 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
+# 옛 주소 → 새 페이지. 왼쪽은 docs.thisisbjj.com 주소의 경로(그룹 id 포함, 앞 / 없음), 오른쪽은 저장소의 파일.
 redirects:
-  ceremonies: jiujitsu/ceremonies.md
-  members/belt-management: jiujitsu/belts.md
-  getting-started/leader-verification: getting-started/business-verification.md
+  # 더 옛날 주소(유지)
+  ceremonies: disciplines/bjj-ceremonies.md
+  members/belt-management: disciplines/bjj-belts.md
+  getting-started/leader-verification: new-members/business-verification.md
   getting-started/phone-verification: getting-started/login.md
+
+  # 2026-11-20 목차 개편 전 주소
+  quick-overview: getting-started/overview.md
+  getting-started/setup-checklist: getting-started/start-management.md
+  getting-started/business-verification: new-members/business-verification.md
+  common/dashboard: getting-started/overview.md
+  common/gym-info: billing/gym-settings.md
+  common/members: members/README.md
+  common/members/detail: members/README.md
+  common/membership-plans: members/membership-plans.md
+  common/contracts: contracts/sending.md
+  common/contracts/sending: contracts/sending.md
+  common/contracts/signing-flow: contracts/signing-flow.md
+  common/contracts/signed-management: contracts/sending.md
+  common/attendance: attendance/records.md
+  common/attendance/kiosk: attendance/kiosk.md
+  common/attendance/stats: attendance/records.md
+  common/kids: attendance/kids.md
+  common/kids/guardian: attendance/kids.md
+  common/announcements: contracts/auto-messages.md
+  common/announcements/auto-messages: contracts/auto-messages.md
+  common/settlement: members/sales.md
+  common/data-migration: getting-started/import-members.md
+  common/subscription: billing/subscription.md
+  jiujitsu/jiujitsu: disciplines/bjj-belts.md
+  jiujitsu/belts: disciplines/bjj-belts.md
+  jiujitsu/ceremonies: disciplines/bjj-ceremonies.md
+  taekwondo/taekwondo: disciplines/tkd-ranks.md
+  taekwondo/ranks: disciplines/tkd-ranks.md
+  taekwondo/promotion-test: disciplines/tkd-ceremonies.md
+
+  # 그룹이 없던 때의 파일 이름 주소
+  dashboard: getting-started/overview.md
+  gym-info: billing/gym-settings.md
+  membership-plans: members/membership-plans.md
+  settlement: members/sales.md
+  data-migration: getting-started/import-members.md
+  subscription: billing/subscription.md
+  faq: help/faq.md
+  updates: help/updates.md
