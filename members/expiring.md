@@ -27,5 +27,5 @@ icon: hourglass-half
 <figure><img src="../.gitbook/assets/expiring-members.webp" alt="곧 끝나는 회원. 7일 이내 6명, 연락처가 없는 2명은 빼고 보내요, 4명에게 알림톡 보내기" width="260"></figure>
 
 {% hint style="info" %}
-[자동 알림톡](../contracts/auto-messages.md)을 켜면 매일 아침 알아서 보내요. 곧 끝나는 회원과 만료 당일 안내는 처음부터 켜져 있고, 오래 안 온 회원 안내는 꺼져 있어요.
+[자동 알림톡](../contracts/auto-messages.md)을 켜면 매일 아침 알아서 보내요. 곧 끝나는 회원과 만료 당일 안내는 처음부터 켜져 있어요.
 {% endhint %}
