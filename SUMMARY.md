@@ -28,7 +28,7 @@
 * [재등록](members/renewal.md)
 * [결제 기록과 이번 달 결제 전](members/payments.md)
 * [매출](members/sales.md)
-* [곧 끝나는 회원·오래 안 온 회원](members/expiring.md)
+* [곧 끝나는 회원](members/expiring.md)
 
 ## 출석과 수업 <a href="#attendance" id="attendance"></a>
 
